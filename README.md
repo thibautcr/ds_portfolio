@@ -101,7 +101,9 @@ Creating interactive dashboards, storytelling with data, using libraries like Ma
 |---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
 | Dashboard Project   | Interactive sales dashboard        | [Dataset link](#)         | Visualize KPIs                | 2023-10-01    | 2024-01-01    | Power BI, Tableau          |
 
+---
 
+## Articles
 
 ---
 
