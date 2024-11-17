@@ -16,9 +16,10 @@ Feel free to explore, and I hope you’ll find something inspiring or useful!
    - [Natural Language Processing (NLP)](#natural-language-processing-nlp)  
    - [Computer Vision](#computer-vision)  
    - [Data Visualization](#data-visualization) 
-3. [Skills](#skills)  
-4. [Certifications](#certifications)  
-5. [Contact](#contact)
+3. [Articles](#articles)  
+4. [Skills](#skills)  
+5. [Certifications](#certifications)  
+6. [Contact](#contact)
 ---
 
 ## Projects
