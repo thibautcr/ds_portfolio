@@ -7,24 +7,100 @@ Feel free to explore, and I hope you’ll find something inspiring or useful!
 ---
 
 ## Table of Contents
-1. [Projects](#projects)
-2. [Skills](#skills)
-3. [Certifications](#certifications)
-4. [Contact](#contact)
-
+1. [Projects](#projects)  
+   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+   - [Predictive Modeling](#predictive-modeling)  
+     - [Classification](#classification)  
+     - [Regression](#regression)  
+     - [Unsupervised Learning](#unsupervised-learning)  
+   - [Natural Language Processing (NLP)](#natural-language-processing-nlp)  
+   - [Computer Vision](#computer-vision)  
+   - [Data Visualization](#data-visualization) 
+3. [Skills](#skills)  
+4. [Certifications](#certifications)  
+5. [Contact](#contact)
 ---
 
 ## Projects
 
 Here’s an overview of the projects I’ve worked on:
 
-| **Name**          | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
-|--------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
-| Project 1          | Example project description         | [Dataset link](#)         | Predictive modeling           | 2024-01-01    | 2024-01-15    | Python, pandas, scikit-learn |
-| Project 2          | Another project description         | [Dataset link](#)         | Data visualization            | 2023-11-01    | 2024-02-01    | Python, seaborn, Power BI  |
-| Project 3          | Exploratory analysis of sales data | [Dataset link](#)         | Business insights             | 2024-03-10    | 2024-04-01    | SQL, Excel, Power BI       |
-
 > Note: This table is regularly updated with new projects as I continue my journey.
+
+
+---
+
+## Exploratory Data Analysis (EDA)
+
+Projects where I explore and visualize datasets to extract meaningful insights.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Sales Insights      | Exploratory analysis of sales data | [Dataset link](#)         | Identify trends and insights  | 2024-03-10    | 2024-04-01    | Python, pandas, seaborn    |
+
+---
+
+## Predictive Modeling
+
+### Classification
+
+Projects using algorithms like logistic regression, SVMs, decision trees, etc.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Churn Prediction    | Predict customer churn             | [Dataset link](#)         | Classification model          | 2024-01-01    | 2024-01-15    | Python, scikit-learn, XGBoost |
+
+---
+
+### Regression
+
+Projects focused on predicting continuous values.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Price Estimation    | Regression model for price prediction | [Dataset link](#)      | Predictive modeling           | 2023-11-01    | 2024-02-01    | Python, scikit-learn, pandas |
+
+---
+
+### Unsupervised Learning
+
+Clustering, dimensionality reduction, anomaly detection.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Customer Clustering | Segment customers into groups      | [Dataset link](#)         | Clustering and insights       | 2023-09-01    | 2024-01-01    | Python, scikit-learn       |
+
+---
+
+## Natural Language Processing (NLP)
+
+Projects like sentiment analysis, text generation, document classification, etc.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Sentiment Analysis  | Analyze customer sentiment         | [Dataset link](#)         | Sentiment classification      | 2024-01-15    | 2024-02-01    | Python, NLTK, spaCy        |
+
+---
+
+## Computer Vision
+
+Projects like image recognition, object detection, image segmentation.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Image Classifier    | Classify images of animals         | [Dataset link](#)         | Image recognition             | 2023-12-01    | 2024-03-01    | Python, TensorFlow, OpenCV |
+
+---
+
+## Data Visualization
+
+Creating interactive dashboards, storytelling with data, using libraries like Matplotlib, Seaborn, Plotly.
+
+| **Name**           | **Description**                     | **Dataset**              | **Objective**                 | **Created**   | **Updated**   | **Technology**            |
+|---------------------|-------------------------------------|--------------------------|--------------------------------|---------------|---------------|----------------------------|
+| Dashboard Project   | Interactive sales dashboard        | [Dataset link](#)         | Visualize KPIs                | 2023-10-01    | 2024-01-01    | Power BI, Tableau          |
+
+
 
 ---
 
